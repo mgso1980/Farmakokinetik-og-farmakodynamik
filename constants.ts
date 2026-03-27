@@ -30,6 +30,7 @@ export const PHARMACOKINETICS_DATA: TopicData = {
         { text: 'Casearbejde Peter 1. semester', link: 'https://padlet.com/39rzo18rh2/casearbejde-peter-1-semester-j5e97609pvhk7xyn'},
         { text: 'Lav planche eller et digitalt element om farmakokinetik' },
         { text: 'Læg dig ned på gulvet på et stykke papir. Tegn omrids af kroppen. Tegn lægemidlets vej gennem kroppen (farmakokinetik)' },
+        { text: 'Bed om et udprint af mavetarmsystemet og sæt farmakokinetiske begreber på' },
         { text: 'Læringsaktivitet, du selv finder på, der giver mening for dig.' }
       ],
       purpose: ['Arbejde aktivt med stoffet, anvende viden, skabe produkter.'],
@@ -63,9 +64,10 @@ export const PHARMACODYNAMICS_DATA: TopicData = {
         { text: 'Producer quiz til medstuderende om farmakodynamik' },
         { text: 'Lav selv speak til Pp om farmakodynamik' },
         { text: 'Lav planche eller et digitalt element om farmakodynamik. Slå jer løs i studietube' },
-        { text: 'Gå i escaperoom' },
+        { text: 'Gå i escaperoom - se nedenfor' },
         { text: 'Link til intro:', link: 'https://www.studietube.dk/media/9471921/1556421543' },
         { text: 'Link til escaperoom:', link: 'https://www.thinglink.com/scene/1915805587900203494' },
+        { text: 'Skab en kort video (Reel/TikTok), der formidler en virkningsmekanisme (f.eks. virkning via receptor og/eller virkning via enzym) på en simpel og pædagogisk måde' },
         { text: 'Læringsaktivitet, du selv finder på, der giver mening for dig.' }
       ],
       purpose: ['Arbejde aktivt med stoffet, anvende viden, skabe produkter.'],

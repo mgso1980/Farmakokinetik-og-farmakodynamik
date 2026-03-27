@@ -19,4 +19,6 @@ export interface TopicData {
 export interface LearningSectionProps {
   data: SectionData;
   topic: string;
+  completedActivities: boolean[];
+  onToggleActivity: (index: number) => void;
 }
